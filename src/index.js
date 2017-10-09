@@ -14,3 +14,9 @@ export function render(){
 }
 
 store.dispatch({type: '@@INIT'})
+
+
+
+/* We start in index.js
+  Import createStore and manageTodo which is the reducer
+*/
